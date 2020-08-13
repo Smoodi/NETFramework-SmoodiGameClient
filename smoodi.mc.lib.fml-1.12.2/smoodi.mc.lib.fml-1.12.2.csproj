@@ -1,0 +1,8 @@
+﻿Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>smoodi.mc.lib.fml_1._12._2</RootNamespace>
+  </PropertyGroup>
+
+</Project>
